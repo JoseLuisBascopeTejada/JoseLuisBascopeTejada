@@ -1,9 +1,6 @@
 <!-- Encabezado con efecto typing -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF6BCB&center=true&vCenter=true&width=500&lines=Hi,+there!+I+am+JoseDev+%F0%9F%91%8B;Welcome+to+my+GitHub+%F0%9F%8C%9F" alt="Typing SVG" />
-</h1>
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=hi+welcome+to+the+josedev;Systems+Engineer;Microsoft+student+ambassadors" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=hi+welcome+to+the+josedev+%F0%9F%91%8B;Systems+Engineer+%F0%9F%92%BB;Microsoft+student+ambassadors+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 <!-- Imagen superior (snake de contribuciones) -->
 <picture>

@@ -11,16 +11,20 @@
 
 ---
 
-### 👨🏻‍💻 About Me
+👨🏻‍💻 Full-Stack Developer & UI/UX Enthusiast based in Bolivia.
 
-```text
-👨🏻‍💻 I'm a Computer Enthusiast
+🎓 Computer Systems Engineering graduate from UNIVALLE.
 
-👨‍🎓 Currently self‑teaching with online resources.
+💻 I specialize in building responsive web applications with React.js, Tailwind CSS, and Node.js. (I use Arch Linux, btw). I also work with Flutter for cross-platform mobile development.
 
-🌱 Currently learning and growing my skillset in **Rust** development.
-📦 Server operator and maintainer in my spare time.
-💡 I like to expand my knowledge and explore new technologies.
-🎮 In my free time, I like to listen to songs and game.
-🏳️‍⚧️ I'm your resident online trans‑girl just tryna fit the aesthetic ♥
-🐨 I come from a land down under 🎶
+🚀 I've developed real-world solutions for the Departmental Health Service (SEDES) and Univalle's SIU, streamlining processes and achieving up to 95% user adoption rates.
+
+🤖 Passionate about integrating AI into practical applications. I built an automated attendance system using Python, OpenCV, and facial recognition for my graduation project.
+
+📦 I enjoy working across the full stack—from designing databases (MySQL, Firebase) to deploying apps on cloud platforms (Vercel, AWS).
+
+🌱 Currently exploring Rust and expanding my DevOps skills with Docker and Azure.
+
+🎮 In my free time, I love listening to music, gaming, and tinkering with my Linux environment.
+
+🇧🇴 Proudly from Cochabamba, Bolivia.

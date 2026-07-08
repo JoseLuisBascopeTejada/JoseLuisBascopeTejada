@@ -1,16 +1,27 @@
-## Hi there 👋
+<!-- Encabezado con efecto typing -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF6BCB&center=true&vCenter=true&width=500&lines=Hi,+there!+I+am+Zephira+%F0%9F%91%8B;Welcome+to+my+GitHub+%F0%9F%8C%9F" alt="Typing SVG" />
+</h1>
 
-<!--
-**JoseLuisBascopeTejada/JoseLuisBascopeTejada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Imagen superior (snake de contribuciones) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+</picture>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨🏻‍💻 About Me
+
+```text
+👨🏻‍💻 I'm a Computer Enthusiast
+
+👨‍🎓 Currently self‑teaching with online resources.
+
+🌱 Currently learning and growing my skillset in **Rust** development.
+📦 Server operator and maintainer in my spare time.
+💡 I like to expand my knowledge and explore new technologies.
+🎮 In my free time, I like to listen to songs and game.
+🏳️‍⚧️ I'm your resident online trans‑girl just tryna fit the aesthetic ♥
+🐨 I come from a land down under 🎶

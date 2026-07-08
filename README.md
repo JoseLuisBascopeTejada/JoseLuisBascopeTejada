@@ -27,4 +27,12 @@
 
 🎮 In my free time, I love listening to music, gaming, and tinkering with my Linux environment.
 
+<div className="mt-12 flex flex-wrap justify-center gap-4">
+  <img
+    src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,nodejs,express,php,dotnet,cs,python,rust,mysql,postgresql,sqlite,firebase,mongodb,redis,docker,kubernetes,aws,azure,git,github,githubactions,jenkins,figma,linux,arch,vim,neovim,postman,grafana,prometheus,nginx,nginx,terraform,ansible,typescript,javascript,html,css,sass,redux,vite,webpack&perline=12"
+    alt="Tech Stack"
+    className="w-full max-w-5xl"
+  />
+</div>
+
 🇧🇴 Proudly from Cochabamba, Bolivia.
